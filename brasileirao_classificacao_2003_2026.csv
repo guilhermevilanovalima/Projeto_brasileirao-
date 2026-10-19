@@ -449,43 +449,43 @@
 2024,18,Criciúma,38,38,9,11,18,42.0,61.0,-19.0,kaggle_historico
 2024,19,Atlético Goianiense,30,38,7,9,22,29.0,58.0,-29.0,kaggle_historico
 2024,20,Cuiabá,30,38,6,12,20,29.0,49.0,-20.0,kaggle_historico
-2025,1,Flamengo,79,38,23,10,5,78.0,27.0,51.0,football_data_org
-2025,2,Palmeiras,76,38,23,7,8,66.0,33.0,33.0,football_data_org
-2025,3,Cruzeiro,70,38,19,13,6,55.0,31.0,24.0,football_data_org
-2025,4,Mirassol,67,38,18,13,7,63.0,39.0,24.0,football_data_org
-2025,5,Fluminense,64,38,19,7,12,50.0,39.0,11.0,football_data_org
-2025,6,Botafogo,63,38,17,12,9,58.0,38.0,20.0,football_data_org
-2025,7,Bahia,60,38,17,9,12,50.0,46.0,4.0,football_data_org
-2025,8,São Paulo,51,38,14,9,15,43.0,47.0,-4.0,football_data_org
-2025,9,Grêmio,49,38,13,10,15,47.0,50.0,-3.0,football_data_org
-2025,10,Red Bull Bragantino,48,38,14,6,18,45.0,57.0,-12.0,football_data_org
-2025,11,Atlético Mineiro,48,38,12,12,14,43.0,44.0,-1.0,football_data_org
-2025,12,Santos,47,38,12,11,15,45.0,50.0,-5.0,football_data_org
-2025,13,Corinthians,47,38,12,11,15,42.0,47.0,-5.0,football_data_org
-2025,14,Vasco,45,38,13,6,19,55.0,60.0,-5.0,football_data_org
-2025,15,Vitória,45,38,11,12,15,35.0,52.0,-17.0,football_data_org
-2025,16,Internacional,44,38,11,11,16,44.0,57.0,-13.0,football_data_org
-2025,17,Ceará,43,38,11,10,17,34.0,40.0,-6.0,football_data_org
-2025,18,Fortaleza,43,38,11,10,17,43.0,58.0,-15.0,football_data_org
-2025,19,Juventude,35,38,9,8,21,35.0,69.0,-34.0,football_data_org
-2025,20,Sport,17,38,2,11,25,28.0,75.0,-47.0,football_data_org
-2026,1,Palmeiras,66,31,19,9,3,54.0,22.0,32.0,football_data_org
-2026,2,Flamengo,64,30,19,7,4,58.0,25.0,33.0,football_data_org
-2026,3,Athletico Paranaense,53,31,15,8,8,49.0,37.0,12.0,football_data_org
-2026,4,Cruzeiro,51,31,15,6,10,50.0,46.0,4.0,football_data_org
-2026,5,Fluminense,51,31,14,9,8,49.0,39.0,10.0,football_data_org
-2026,6,Atlético Mineiro,50,31,14,8,9,42.0,35.0,7.0,football_data_org
-2026,7,Bahia,49,30,13,10,7,44.0,36.0,8.0,football_data_org
-2026,8,Santos,45,31,12,9,10,48.0,46.0,2.0,football_data_org
-2026,9,São Paulo,42,31,12,6,13,36.0,35.0,1.0,football_data_org
-2026,10,Red Bull Bragantino,40,30,11,7,12,38.0,35.0,3.0,football_data_org
-2026,11,Botafogo,39,31,10,9,12,44.0,48.0,-4.0,football_data_org
-2026,12,Coritiba,39,31,10,9,12,38.0,49.0,-11.0,football_data_org
-2026,13,Vitória,36,30,10,6,14,33.0,44.0,-11.0,football_data_org
-2026,14,Mirassol,36,31,9,9,13,36.0,44.0,-8.0,football_data_org
-2026,15,Vasco,35,30,9,8,13,36.0,43.0,-7.0,football_data_org
-2026,16,Corinthians,32,30,8,8,14,31.0,38.0,-7.0,football_data_org
-2026,17,Internacional,32,31,7,11,13,33.0,40.0,-7.0,football_data_org
-2026,18,Grêmio,31,31,7,10,14,34.0,44.0,-10.0,football_data_org
-2026,19,Remo,25,30,5,10,15,33.0,48.0,-15.0,football_data_org
-2026,20,Chapecoense,18,30,3,9,18,30.0,62.0,-32.0,football_data_org
+2025,1,CR Flamengo,79,38,23,10,5,78.0,27.0,51.0,football_data_org
+2025,2,SE Palmeiras,76,38,23,7,8,66.0,33.0,33.0,football_data_org
+2025,3,Cruzeiro EC,70,38,19,13,6,55.0,31.0,24.0,football_data_org
+2025,4,Mirassol FC,67,38,18,13,7,63.0,39.0,24.0,football_data_org
+2025,5,Fluminense FC,64,38,19,7,12,50.0,39.0,11.0,football_data_org
+2025,6,Botafogo FR,63,38,17,12,9,58.0,38.0,20.0,football_data_org
+2025,7,EC Bahia,60,38,17,9,12,50.0,46.0,4.0,football_data_org
+2025,8,São Paulo FC,51,38,14,9,15,43.0,47.0,-4.0,football_data_org
+2025,9,Grêmio FBPA,49,38,13,10,15,47.0,50.0,-3.0,football_data_org
+2025,10,RB Bragantino,48,38,14,6,18,45.0,57.0,-12.0,football_data_org
+2025,11,CA Mineiro,48,38,12,12,14,43.0,44.0,-1.0,football_data_org
+2025,12,Santos FC,47,38,12,11,15,45.0,50.0,-5.0,football_data_org
+2025,13,SC Corinthians Paulista,47,38,12,11,15,42.0,47.0,-5.0,football_data_org
+2025,14,CR Vasco da Gama,45,38,13,6,19,55.0,60.0,-5.0,football_data_org
+2025,15,EC Vitória,45,38,11,12,15,35.0,52.0,-17.0,football_data_org
+2025,16,SC Internacional,44,38,11,11,16,44.0,57.0,-13.0,football_data_org
+2025,17,Ceará SC,43,38,11,10,17,34.0,40.0,-6.0,football_data_org
+2025,18,Fortaleza EC,43,38,11,10,17,43.0,58.0,-15.0,football_data_org
+2025,19,EC Juventude,35,38,9,8,21,35.0,69.0,-34.0,football_data_org
+2025,20,SC Recife,17,38,2,11,25,28.0,75.0,-47.0,football_data_org
+2026,1,CR Flamengo,67,31,20,7,4,61.0,25.0,36.0,football_data_org
+2026,2,SE Palmeiras,66,31,19,9,3,54.0,22.0,32.0,football_data_org
+2026,3,CA Paranaense,53,31,15,8,8,49.0,37.0,12.0,football_data_org
+2026,4,Cruzeiro EC,51,31,15,6,10,50.0,46.0,4.0,football_data_org
+2026,5,Fluminense FC,51,31,14,9,8,49.0,39.0,10.0,football_data_org
+2026,6,CA Mineiro,50,31,14,8,9,42.0,35.0,7.0,football_data_org
+2026,7,EC Bahia,49,31,13,10,8,44.0,39.0,5.0,football_data_org
+2026,8,Santos FC,45,31,12,9,10,48.0,46.0,2.0,football_data_org
+2026,9,São Paulo FC,42,31,12,6,13,36.0,35.0,1.0,football_data_org
+2026,10,RB Bragantino,41,31,11,8,12,39.0,36.0,3.0,football_data_org
+2026,11,Botafogo FR,39,31,10,9,12,44.0,48.0,-4.0,football_data_org
+2026,12,Coritiba FBC,39,31,10,9,12,38.0,49.0,-11.0,football_data_org
+2026,13,EC Vitória,36,30,10,6,14,33.0,44.0,-11.0,football_data_org
+2026,14,Mirassol FC,36,31,9,9,13,36.0,44.0,-8.0,football_data_org
+2026,15,CR Vasco da Gama,35,30,9,8,13,36.0,43.0,-7.0,football_data_org
+2026,16,SC Corinthians Paulista,32,30,8,8,14,31.0,38.0,-7.0,football_data_org
+2026,17,SC Internacional,32,31,7,11,13,33.0,40.0,-7.0,football_data_org
+2026,18,Grêmio FBPA,31,31,7,10,14,34.0,44.0,-10.0,football_data_org
+2026,19,Clube do Remo,26,31,5,11,15,34.0,49.0,-15.0,football_data_org
+2026,20,Chapecoense AF,18,30,3,9,18,30.0,62.0,-32.0,football_data_org
